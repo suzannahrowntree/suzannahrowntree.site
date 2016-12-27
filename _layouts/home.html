@@ -12,10 +12,10 @@
   </head>
 
 
-  <body>
+  <body class="bg-inverse">
 
     <div class="container">
-      <nav class="navbar navbar-dark bg-inverse">
+      <nav class="navbar navbar-dark">
         <a class="navbar-brand" href="/">{{ site.title }}</a>
         <ul class="nav navbar-nav">
           <li class="nav-item">
@@ -26,18 +26,41 @@
           </li>
         </ul>
       </nav>
+
+        <div class="media text-white pb-1">
+          <a class="media-left" href="/">
+            <img class="media-object rounded" src="/images/{{ page.img }}" alt="{{ site.title }}">
+          </a>
+          <div class="media-body">
+            <h4 class="media-heading">{{ page.title }}</h4>
+            {{ content }}
+          </div>
+        </div>
     </div>
 
-    <div class="container">
-        {{ content }}
-    </div><!-- /.container -->
+    {% for book in site.books %}
+    <div class="container-fluid py-2" style="background: #FFFFFF url(/images/backgrounds/{{ book.background }}) no-repeat fixed center">
+      <div class="container bg-faded rounded py-1">
+        <div class="media">
+          <a class="media-left" href="#">
+            <img class="media-object" src="/images/books/{{ book.image }}" alt="{{ book.title }}">
+          </a>
+          <div class="media-body">
+            <h4 class="media-heading">{{ book.title }}</h4>
+            {{ book.content }}
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
 
     <div class="container">
-      <div class="jumbotron">
+      <div class="jumbotron bg-inverse text-white">
         &copy; {{ site.title }}
       </div>
     </div>
 
+    <script src="https://use.fontawesome.com/1b46d9b8fe.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha384-3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js" integrity="sha384-XTs3FgkjiBgo8qjEjBk0tGmf3wPrWtA6coPfQDfFEY8AnYJwjalXCiosYRBIBZX8" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>

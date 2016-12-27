@@ -1,22 +1,8 @@
 ---
 layout: home
-title: Suzannah Rowntree
+title: About the author
 permalink: /
+img: suzannah.jpg
 ---
 
-Welcome
-=======
-
-## Further text in this style
-
-### More text in this style
-
-Book 1
----------
-book blurb
-
-Book 2
------- 
-book blurb
-
-Markdown guide: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
