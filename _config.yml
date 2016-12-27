@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Suzannah Rowntree
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines
   Suzannah Rowntree - books
 url: https://suzannahrowntree.site
 enforce_ssl: suzannahrowntree.site
