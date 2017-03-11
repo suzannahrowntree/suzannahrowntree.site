@@ -2,7 +2,7 @@
 title: Pendragon's Heir
 subheading: An Arthurian fantasy
 background: "swirl.png"
-image: "MediumPHCover.png"
+image: "PHsmallcover.png"
 
 ---
 
