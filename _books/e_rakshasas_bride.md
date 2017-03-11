@@ -1,7 +1,7 @@
 ---
 title: The Rakshasa's Bride
 subheading: A Fairy Tale Retold
-background: vector-abstract-blue-wave-background.webp
+background: symphony.png
 image: TRBsmallcover.jpg
 ---
 
