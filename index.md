@@ -5,4 +5,4 @@ permalink: /
 img: suzannah.jpg
 ---
 
-Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+When Suzannah Rowntree isn’t travelling the world to help out friends in need, she lives in a big house in rural Australia with her awesome parents and siblings, trying to beat her previous number-of-books-read-in-a-year record. She blogs the results at <a href=http://www.vintagenovels.com/>Vintage Novels</a> when she's not writing historical fantasy fiction.
