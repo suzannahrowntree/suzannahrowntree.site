@@ -1,7 +1,7 @@
 ---
 title: Coming Soon! Death be Not Proud
 subheading: A Fairy Tale Retold
-background: vector-abstract-blue-wave-background.webp
+background: symphony.png
 image: DBNPSmallCover.jpg
 ---
 
