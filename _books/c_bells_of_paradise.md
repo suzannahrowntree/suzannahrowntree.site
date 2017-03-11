@@ -1,7 +1,7 @@
 ---
 title: The Bells of Paradise
 subheading: A Fairy Tale Retold
-background: vector-abstract-blue-wave-background.webp
+background: symphony.png
 image: BOPCoversmall.jpg
 ---
 
