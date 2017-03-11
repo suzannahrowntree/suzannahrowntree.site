@@ -1,7 +1,7 @@
 ---
 title: The Prince of Fishes
 subheading: A Fairy Tale Retold
-background: symphony.png
+background: swirl.png
 image: prince_of_fishes.jpg
 ---
 
