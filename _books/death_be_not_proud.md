@@ -2,7 +2,7 @@
 title: Coming Soon! Death be Not Proud
 subheading: A Fairy Tale Retold
 background: vector-abstract-blue-wave-background.webp
-image: DBNPCover.jpg
+image: DBNPSmallCover.jpg
 ---
 
 Moonshine liquor, jazz-fuelled dancing, and the risk of a police raid - these are all in a night's work for cabaret singer Ruby Black. But when a rugby star mistakes her for a dead girl, Ruby's life threatens to become briefer and more exciting than she bargained for.
