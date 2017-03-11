@@ -1,8 +1,8 @@
 ---
 title: Pendragon's Heir
 subheading: An Arthurian fantasy
-background: "swirl.png"
-image: "PHsmallcover.png"
+background: swirl.png
+image: PHsmallcover.jpg
 
 ---
 
