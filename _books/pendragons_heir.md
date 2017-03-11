@@ -1,8 +1,11 @@
 ---
 title: Pendragon's Heir
 subheading: An Arthurian fantasy
-background: light_grey.png
+background: #RimCascadesAssetMetaData version=1.0
+source: "swirl.png"
+repeatable: true
 image: MediumPHCover.png
+
 ---
 
 > [<i class="fa fa-amazon" aria-hidden="true"></i> eBook](https://www.amazon.com/dp/B00UKICH94) 
