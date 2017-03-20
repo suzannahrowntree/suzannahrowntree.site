@@ -1,5 +1,5 @@
 ---
-title: Coming Soon!
+title: Releases March 27th, 2017!
 subheading: A Fairy Tale Retold
 background: ep_naturalblack.png
 image: DBNPSmallCover.jpg
@@ -9,4 +9,4 @@ Moonshine liquor, jazz-fuelled dancing, and the risk of a police raid - these ar
 
 Two years ago, schoolgirl Wu Xue Bai was brutally murdered. Now, Ruby herself is in danger. Who killed Xue Bai? What lies behind Max Moran's obsession with the dead girl? And will Ruby learn the truth before secrets from her own past catch up with her?
 
-_Death Be Not Proud_ is a fairytale retelling set in Jazz Age New Zealand, inspired by the thrillers of Mary Stewart and Alfred Hitchcock. Novella, approximately 23,000 words. Coming soon!
+_Death Be Not Proud_ is a fairytale retelling set in Jazz Age New Zealand, inspired by the thrillers of Mary Stewart and Alfred Hitchcock. Novella, approximately 23,000 words. Coming March 27th, 2017.
