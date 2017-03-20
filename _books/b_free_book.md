@@ -11,7 +11,7 @@ In Constantinople, the Queen of Cities, poverty-stricken Michael the Fisherman a
 
 An epic clockpunk retelling of the Grimms' fairytale The Fisherman and His Wife, set against the theological turmoil and imperial grandeur of 700s Byzantium. Novella, approximately 33,000 words.
 
-"Suzannah has succeeded in creating a story of great depth and complexity, bringing out subtleties not so apparent in the original."
+_"Suzannah has succeeded in creating a story of great depth and complexity, bringing out subtleties not so apparent in the original."_
 
 **Plus, you'll get email notifications of new releases, special offers, and first dibs on review copies!**
 
