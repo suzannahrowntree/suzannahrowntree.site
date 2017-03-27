@@ -9,6 +9,7 @@ Experience your favourite fairytales with a historical fantasy twist! From Beaut
 ---
 #### The Rakshasa's Bride
 ---
+
 <div class="media-left">
 
 [![The Rakshasa's Bride](http://suzannahrowntree.site/images/books/TRBsmallcover.jpg#right)](https://www.amazon.com/Rakshasas-Bride-Fairy-Tales-Retold-ebook/dp/B00RDPQEJG/)
