@@ -49,7 +49,7 @@
       <div class="container bg-faded rounded py-1">
         <div class="media">
           <a class="media-left" href="#">
-            {% if book.image != blank %}
+            {% if book.image != "none" %}
               <img class="media-object" src="/images/books/{{ book.image }}" alt="{{ book.title }}">
             {% endif %}
           </a>
