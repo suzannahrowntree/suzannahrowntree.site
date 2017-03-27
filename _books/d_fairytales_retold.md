@@ -25,6 +25,7 @@ A rich and romantic retelling of Beauty and the Beast in the style of a Bollywoo
 > [<i class="fa fa-amazon" aria-hidden="true"></i> Get it now on Amazon.](https://www.amazon.com/Rakshasas-Bride-Fairy-Tales-Retold-ebook/dp/B00RDPQEJG/)
 
 </div>
+
 ---
 #### The Prince of Fishes
 ---
