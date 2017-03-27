@@ -1,7 +1,7 @@
 ---
 title: The Fairytales Retold Series
 background: ep_naturalblack.png
-image: none
+image:
 ---
 
 Experience your favourite fairytales with a historical fantasy twist! From Beauty and the Beast in mythic India to Jorinda and Joringel in the strange realms of Elizabethan folklore, the Fairy Tales Retold novella series is a kaleidescope of history and legend. 
