@@ -7,7 +7,7 @@ image: none
 Experience your favourite fairytales with a historical fantasy twist! From Beauty and the Beast in mythic India to Jorinda and Joringel in the strange realms of Elizabethan folklore, the Fairy Tales Retold novella series is a kaleidescope of history and legend. 
 
 ---
-### The Rakshasa's Bride
+#### The Rakshasa's Bride
 ---
 [![The Rakshasa's Bride](http://suzannahrowntree.site/images/books/TRBsmallcover.jpg#right)](https://www.amazon.com/Rakshasas-Bride-Fairy-Tales-Retold-ebook/dp/B00RDPQEJG/)
 
@@ -20,7 +20,7 @@ A rich and romantic retelling of Beauty and the Beast in the style of a Bollywoo
 > [<i class="fa fa-amazon" aria-hidden="true"></i> Get it now on Amazon.](https://www.amazon.com/Rakshasas-Bride-Fairy-Tales-Retold-ebook/dp/B00RDPQEJG/)
 
 ---
-### The Prince of Fishes
+#### The Prince of Fishes
 ---
 [![The Prince of Fishes](http://suzannahrowntree.site/images/books/prince_of_fishes.jpg#right)](http://www.amazon.com/Prince-Fishes-Fairy-Tales-Retold-ebook/dp/B0131LAEU0/)
 
@@ -31,7 +31,7 @@ An epic clockpunk retelling of the Grimms' fairytale The Fisherman and His Wife,
 > [<i class="fa fa-amazon" aria-hidden="true"></i> Get it now on Amazon.](http://www.amazon.com/Prince-Fishes-Fairy-Tales-Retold-ebook/dp/B0131LAEU0/)
 
 ---
-### The Bells of Paradise
+#### The Bells of Paradise
 ---
 [![The Bells of Paradise](http://suzannahrowntree.site/images/books/BOPCoversmall.jpg#right)](https://www.amazon.com/Bells-Paradise-Fairy-Tales-Retold-ebook/dp/B01B0VYTLS/)
 
