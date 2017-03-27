@@ -10,9 +10,12 @@ Experience your favourite fairytales with a historical fantasy twist! From Beaut
 #### The Rakshasa's Bride
 ---
 <div class="media-left">
+
 [![The Rakshasa's Bride](http://suzannahrowntree.site/images/books/TRBsmallcover.jpg#right)](https://www.amazon.com/Rakshasas-Bride-Fairy-Tales-Retold-ebook/dp/B00RDPQEJG/)
+
 </div>
 <div class="media-body">
+
 Preeti Kamla has the evil eye. It’s the only explanation for the tragedy and disgrace besetting her once wealthy family. But when a handsome stranger in the village square tells her he has broken her curse, Preeti almost believes him.
 
 Until a twist of fate whisks her away from everything she knows, and the gruesome Demon Rajah claims her as his bride. 
@@ -20,6 +23,7 @@ Until a twist of fate whisks her away from everything she knows, and the gruesom
 A rich and romantic retelling of Beauty and the Beast in the style of a Bollywood epic. Available as an ebook or paperback.
 
 > [<i class="fa fa-amazon" aria-hidden="true"></i> Get it now on Amazon.](https://www.amazon.com/Rakshasas-Bride-Fairy-Tales-Retold-ebook/dp/B00RDPQEJG/)
+
 </div>
 ---
 #### The Prince of Fishes
