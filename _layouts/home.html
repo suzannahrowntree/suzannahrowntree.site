@@ -49,7 +49,9 @@
       <div class="container bg-faded rounded py-1">
         <div class="media">
           <a class="media-left" href="#">
-            <img class="media-object" src="/images/books/{{ book.image }}" alt="{{ book.title }}">
+            {% if book.image != blank %}
+              <img class="media-object" src="/images/books/{{ book.image }}" alt="{{ book.title }}">
+            {% endif %}
           </a>
           <div class="media-body">
             <h4 class="media-heading">{{ book.title }}</h4>
