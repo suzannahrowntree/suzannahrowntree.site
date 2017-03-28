@@ -9,11 +9,15 @@ Experience your favourite fairytales with a historical fantasy twist! From Beaut
 ---
 #### The Rakshasa's Bride
 ---
-|[![The Rakshasa's Bride](http://suzannahrowntree.site/images/books/TRBsmallcover.jpg#right)](https://www.amazon.com/gp/product/B00RDPQEJG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00RDPQEJG&linkId=6518ebe714c2ffd824c8128cd2dbaf7a) | Preeti Kamla has the evil eye. It’s the only explanation for the tragedy and disgrace besetting her once wealthy family. But when a handsome stranger in the village square tells her he has broken her curse, Preeti almost believes him.
-|--- | ---
-|--- | Until a twist of fate whisks her away from everything she knows, and the gruesome Demon Rajah claims her as his bride. 
-|--- | A rich and romantic retelling of Beauty and the Beast in the style of a Bollywood epic. Available as an ebook or paperback.
-|--- | [<i class="fa fa-amazon" aria-hidden="true"></i> Get it now on Amazon.](https://www.amazon.com/gp/product/B00RDPQEJG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00RDPQEJG&linkId=6518ebe714c2ffd824c8128cd2dbaf7a)
+[![The Rakshasa's Bride](http://suzannahrowntree.site/images/books/TRBsmallcover.jpg#right)](https://www.amazon.com/gp/product/B00RDPQEJG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00RDPQEJG&linkId=6518ebe714c2ffd824c8128cd2dbaf7a) 
+
+Preeti Kamla has the evil eye. It’s the only explanation for the tragedy and disgrace besetting her once wealthy family. But when a handsome stranger in the village square tells her he has broken her curse, Preeti almost believes him.
+
+Until a twist of fate whisks her away from everything she knows, and the gruesome Demon Rajah claims her as his bride. 
+
+A rich and romantic retelling of Beauty and the Beast in the style of a Bollywood epic. Available as an ebook or paperback.
+
+[<i class="fa fa-amazon" aria-hidden="true"></i> Get it now on Amazon.](https://www.amazon.com/gp/product/B00RDPQEJG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00RDPQEJG&linkId=6518ebe714c2ffd824c8128cd2dbaf7a)
 
 ---
 #### The Prince of Fishes
