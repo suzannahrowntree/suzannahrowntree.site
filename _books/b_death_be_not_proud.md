@@ -1,5 +1,5 @@
 ---
-title: Releases March 27th, 2017!
+title: New Release!
 subheading: A Fairy Tale Retold
 background: ep_naturalblack.png
 image: DBNPSmallCover.jpg
@@ -11,4 +11,4 @@ Two years ago, schoolgirl Wu Xue Bai was brutally murdered. Now, Ruby herself is
 
 _Death Be Not Proud_ is a fairytale retelling set in Jazz Age New Zealand, inspired by the thrillers of Mary Stewart and Alfred Hitchcock. Novella, approximately 23,000 words.
 
-[Sign up for my author mailing list](http://vintagenovels.us10.list-manage2.com/subscribe?u=37e3f76c0f168f6d540fa9046&id=e8193327b9) to be informed about this and other new releases!
+> [<i class="fa fa-amazon" aria-hidden="true"></i> Get it now on Kindle](https://www.amazon.com/gp/product/B06XV1FRDZ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06XV1FRDZ&linkId=3d57edfe6c146f8e4428cc969b17b959) or in [paperback](https://www.amazon.com/gp/product/0994233949/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0994233949&linkId=2cbed94a6852c2c035da00ec83c34e36)
