@@ -6,7 +6,7 @@ image: PHsmallcover.jpg
 
 ---
 
-**Available now in [eBook](https://www.amazon.com/dp/B00UKICH94) and [paperback](https://www.amazon.com/Pendragons-Heir-Suzannah-Rowntree-ebook/dp/B00UKICH94/)!**
+**Available now in [eBook](https://www.amazon.com/gp/product/B00UKICH94/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00UKICH94&linkId=7ed5aa9fe9e3befcb973a4bf2ee6103d) and [paperback](https://www.amazon.com/gp/product/0994233906/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0994233906&linkId=3ed927c1d39389b2819360ceb95a70e5)!**
 
 Blanche Pendragon enjoys her undemanding life as the ward of an eccentric nobleman in 1900 England. It's been years since she even wondered what happened to her long lost parents, but then a gift on the night of her eighteenth birthday reveals a heritage more dangerous and awe-inspiring than she ever dreamed of--or wanted. Soon Blanche is flung into a world of wayfaring immortals, daring knights, and deadly combats, with a murderous witch-queen on her trail and the future of a kingdom at stake. As the legendary King Arthur Pendragon and his warriors face enemies without and treachery within, Blanche discovers a secret that could destroy the whole realm of Logres. Even if the kingdom could be saved, is she the one to do it? Or is someone else the Pendragon's Heir?
 
@@ -22,4 +22,4 @@ _"Pendragon's Heir_ was a wonderful, imaginative tale of chivalry and honor... I
 
 "I literally couldn't put it down...In this novel the characters of legend have living and breathing personalities, loves, hates and fears." **~ Elisabeth Grace Foley, author of _The Lost Lake House_**
 
-**[<i class="fa fa-amazon" aria-hidden="true"></i> Get it now on Amazon.](https://www.amazon.com/dp/B00UKICH94)**
+**[<i class="fa fa-amazon" aria-hidden="true"></i> Get it now on Amazon.](https://www.amazon.com/gp/product/B00UKICH94/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00UKICH94&linkId=7ed5aa9fe9e3befcb973a4bf2ee6103d)**
