@@ -2,88 +2,92 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="{{ site.description }}">
     <title>{{ site.title }}</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     <style>
-      .social {
-         min-width:35px;
-         text-align:center;
+      .content img {
+        float: left;
+        padding: 10px;
+        clear: both;
       }
     </style>
   </head>
 
-
   <body class="bg-inverse">
 
     <div class="container">
-      <nav class="navbar navbar-dark">
-        <a class="navbar-brand" href="/">{{ site.title }}</a>
-        <ul class="nav navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link" href="https://www.amazon.com/Suzannah-Rowntree/e/B00CXZM07Q/?&_encoding=UTF8&tag=suzannahsite-20&linkCode=ur2&linkId=ff90d52f2bac1a46cf729e8e81e662a9&camp=1789&creative=9325">Shop</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="http://www.vintagenovels.com/">Vintage Novels</a>
-          </li>
-        </ul>
+
+      <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="#">{{ site.title }}</a>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.amazon.com/Suzannah-Rowntree/e/B00CXZM07Q/?&_encoding=UTF8&tag=suzannahsite-20&linkCode=ur2&linkId=ff90d52f2bac1a46cf729e8e81e662a9&camp=1789&creative=9325">Shop</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="http://www.vintagenovels.com/">Vintage Novels</a>
+            </li>
+          </ul>
+        </div>
       </nav>
 
-        <div class="media text-white pb-1">
+      <div class="row">
+        <div class="col col-lg-6 col-xl-5">
           <a class="media-left" href="/">
             <img class="media-object rounded" src="/images/{{ page.img }}" alt="{{ site.title }}">
           </a>
-          <div class="media-body">
-            <h4 class="media-heading">{{ page.title }}</h4>
-            {{ content }}
-          </div>
         </div>
+        <div class="col text-white">
+          <h4 class="media-heading">{{ page.title }}</h4>
+          {{ content }}
+        </div>
+      </div>
     </div>
 
     {% for book in site.books %}
     <div class="container-fluid py-2" style="background: #FFFFFF url(/images/backgrounds/{{ book.background }})">
       <div class="container bg-faded rounded py-1">
-        <div class="media">
-          <a class="media-left" href="#">
-            {% if book.image != "none" %}
-              <img class="media-object" src="/images/books/{{ book.image }}" alt="{{ book.title }}">
-            {% endif %}
-          </a>
-          <div class="media-body">
-            <h4 class="media-heading">{{ book.title }}</h4>
-            {{ book.content }}
-          </div>
-        </div>
+        {% if book.image %}
+          <figure class="figure float-left">
+            <img class="d-flex mr-3 align-self-start" src="/images/books/{{ book.image }}" alt="{{ book.title }}">
+          </figure>
+        {% endif %}
+
+        <h4>{{ book.title }}</h4>
+        <div class="content">{{ book.content }}</div>
       </div>
     </div>
     {% endfor %}
 
     <div class="container">
-      <div class="jumbotron bg-inverse text-white">
-        &copy; {{ site.title }}
+      <div class="navbar navbar-inverse">
+        <a class="navbar-brand text-white">
+          &copy; {{ site.title }}
+        </a>
       </div>
     </div>
 
     <script src="https://use.fontawesome.com/1b46d9b8fe.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha384-3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js" integrity="sha384-XTs3FgkjiBgo8qjEjBk0tGmf3wPrWtA6coPfQDfFEY8AnYJwjalXCiosYRBIBZX8" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 
-    
+
     <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-28842361-3', 'auto');
-  ga('send', 'pageview');
+      ga('create', 'UA-28842361-3', 'auto');
+      ga('send', 'pageview');
+    </script>
 
-</script>
-    
   </body>
 </html>

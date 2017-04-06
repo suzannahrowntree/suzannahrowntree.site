@@ -1,19 +1,19 @@
 ---
 title: The Fairytales Retold Series
 background: ep_naturalblack.png
-image: none
+
 ---
 
-Experience your favourite fairytales with a historical fantasy twist! From Beauty and the Beast in mythic India to Jorinda and Joringel in the strange realms of Elizabethan folklore, the Fairy Tales Retold novella series is a kaleidescope of history and legend. 
+Experience your favourite fairytales with a historical fantasy twist! From Beauty and the Beast in mythic India to Jorinda and Joringel in the strange realms of Elizabethan folklore, the Fairy Tales Retold novella series is a kaleidescope of history and legend.
 
 ---
 #### The Rakshasa's Bride
 ---
-[![The Rakshasa's Bride](http://suzannahrowntree.site/images/books/TRBsmallcover.jpg#right)](https://www.amazon.com/gp/product/B00RDPQEJG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00RDPQEJG&linkId=6518ebe714c2ffd824c8128cd2dbaf7a) 
+[![The Rakshasa's Bride](http://suzannahrowntree.site/images/books/TRBsmallcover.jpg#right)](https://www.amazon.com/gp/product/B00RDPQEJG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00RDPQEJG&linkId=6518ebe714c2ffd824c8128cd2dbaf7a)
 
 Preeti Kamla has the evil eye. It’s the only explanation for the tragedy and disgrace besetting her once wealthy family. But when a handsome stranger in the village square tells her he has broken her curse, Preeti almost believes him.
 
-Until a twist of fate whisks her away from everything she knows, and the gruesome Demon Rajah claims her as his bride. 
+Until a twist of fate whisks her away from everything she knows, and the gruesome Demon Rajah claims her as his bride.
 
 A rich and romantic retelling of Beauty and the Beast in the style of a Bollywood epic. Available as an ebook or paperback.
 
@@ -26,7 +26,7 @@ A rich and romantic retelling of Beauty and the Beast in the style of a Bollywoo
 
 In Constantinople, the Queen of Cities, poverty-stricken Michael the Fisherman and his wife Eudokia dream of a better life for their family. When Michael catches a fish that is able to grant wishes, he and Eudokia finally get their chance to taste the wealth and power of their wildest dreams. But will their ambition destroy the city and cost them everything they hold dear?
 
-An epic clockpunk retelling of the Grimms' fairytale The Fisherman and His Wife, set against the theological turmoil and imperial grandeur of 700s Byzantium. 
+An epic clockpunk retelling of the Grimms' fairytale The Fisherman and His Wife, set against the theological turmoil and imperial grandeur of 700s Byzantium.
 
 > [<i class="fa fa-amazon" aria-hidden="true"></i> Get it now on Amazon.](https://www.amazon.com/gp/product/B0131LAEU0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0131LAEU0&linkId=5dc24fdd20f4f683169cf98aa8ed529c)
 
