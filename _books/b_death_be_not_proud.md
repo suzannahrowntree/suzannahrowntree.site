@@ -13,4 +13,6 @@ _"Kept me on the edge of my seat. ...haunting and gorgeous and strange and uniqu
 
 **Plus, you'll get email notifications of new releases, special offers, and first dibs on review copies!**
 
-[Sign up for my mailing list to receive your free copy](http://vintagenovels.us10.list-manage2.com/subscribe?u=37e3f76c0f168f6d540fa9046&id=e8193327b9)
+[Sign up for my mailing list to receive your free copy.](http://vintagenovels.us10.list-manage2.com/subscribe?u=37e3f76c0f168f6d540fa9046&id=e8193327b9)
+
+Also available as an illustrated paperback [on Amazon](https://www.amazon.com/gp/product/0994233949/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0994233949&linkId=312ee948e810436a1a22819f642cde1a).
