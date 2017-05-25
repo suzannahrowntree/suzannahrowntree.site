@@ -14,3 +14,6 @@ _"Kept me on the edge of my seat. ...haunting and gorgeous and strange and uniqu
 **Plus, you'll get email notifications of new releases, special offers, and first dibs on review copies!**
 
 [Sign up for my mailing list to receive your free copy!](http://vintagenovels.us10.list-manage2.com/subscribe?u=37e3f76c0f168f6d540fa9046&id=e8193327b9)
+
+
+
