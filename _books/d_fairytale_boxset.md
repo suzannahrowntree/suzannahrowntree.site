@@ -20,20 +20,24 @@ In Prohibition-era New Zealand, cabaret singer Ruby Black lives for thrills--but
 **Get four stories for the price of two!** "Beauty and the Beast" and three other classic fairytales find a vivid new lease on life in this wildly diverse collection of novellas, available for the first time in a discounted boxset edition.
 
 ---
-##### Praise for...
+#### Praise for...
 
 **The Rakshasa's Bride**
+
 "Suzannah Rowntree has a gift for creating lifelike, relatable characters and crafting a setting with such vivid imagery that I was drawn into it in spite of the unfamiliarity."
 "Full of rich descriptions and details harvested from a wealth of research."
 
 **The Prince of Fishes**
+
 "A gorgeous, vivid portrait of Byzantine life and politics."
 "A carefully researched, richly woven tale."
 
 **The Bells of Paradise**
+
 "[Rowntree] has taken a lesser-known fairytale and made magic by crossing it with a lush historical-fantasy setting."
 "This is a thrilling story full of action and adventure, love and loss, beauty and meaning."
 
 **Death Be Not Proud**
+
 "[Rowntree] has taken a lesser-known fairytale and made magic by crossing it with a lush historical-fantasy setting."
 "This is a thrilling story full of action and adventure, love and loss, beauty and meaning."
