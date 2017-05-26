@@ -25,19 +25,25 @@ In Prohibition-era New Zealand, cabaret singer Ruby Black lives for thrills--but
 **The Rakshasa's Bride**
 
 "Suzannah Rowntree has a gift for creating lifelike, relatable characters and crafting a setting with such vivid imagery that I was drawn into it in spite of the unfamiliarity."
+
 "Full of rich descriptions and details harvested from a wealth of research."
 
 **The Prince of Fishes**
 
 "A gorgeous, vivid portrait of Byzantine life and politics."
+
 "A carefully researched, richly woven tale."
 
 **The Bells of Paradise**
 
 "[Rowntree] has taken a lesser-known fairytale and made magic by crossing it with a lush historical-fantasy setting."
+
 "This is a thrilling story full of action and adventure, love and loss, beauty and meaning."
 
 **Death Be Not Proud**
 
 "[Rowntree] has taken a lesser-known fairytale and made magic by crossing it with a lush historical-fantasy setting."
+
 "This is a thrilling story full of action and adventure, love and loss, beauty and meaning."
+
+[<i class="fa fa-amazon" aria-hidden="true"></i> Get it now on Amazon.](https://www.amazon.com/gp/product/B06Y1VNXP8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06Y1VNXP8&linkId=84c315068759650819f8acaa000b8867)
