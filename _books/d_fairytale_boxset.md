@@ -1,7 +1,7 @@
 ---
 title: A Fairy Tale Retold Series
 image: boxset.png
-background: ep_naturalblack.png
+background: swirl.png
 
 ---
 
