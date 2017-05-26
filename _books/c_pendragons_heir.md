@@ -12,13 +12,11 @@ image: PHsmallcover.jpg
 
 _Pendragon's Heir_ is a spellbinding Arthurian fantasy novel for fans of Stephen Lawhead and CS Lewis.
 
----
 ##### Praise for _Pendragon's Heir_
----
 
 "A sweeping, epic tribute to Arthurian legend, with adventure, romance and deep meaning." **~ Callooh Callay Books**
 
-_"[Pendragon's Heir]_ impacted me in a way no other fictional book has." **~ Byte-Sized Theology**
+_"[Pendragon's Heir]_ impacted me in a way no other fictional book has...Nothing short of spiritually inspiring." **~ Byte-Sized Theology**
 
 _"Pendragon's Heir_ was a wonderful, imaginative tale of chivalry and honor... It reads like a painting by John William Waterhouse or Edmund Blair Leighton _looks_." **~ Hayden Wand, author of _The Wulver's Rose_**
 
