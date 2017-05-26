@@ -1,6 +1,6 @@
 ---
 title: The Fairytales Retold Series
-image: Boxset 3d no background.png
+image: boxset.png
 background: ep_naturalblack.png
 
 ---
