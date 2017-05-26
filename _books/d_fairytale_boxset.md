@@ -1,5 +1,5 @@
 ---
-title: A Fairy Tale Retold: Novella Series
+title: A Fairy Tale Retold Series
 image: boxset.png
 background: ep_naturalblack.png
 
