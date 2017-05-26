@@ -2,7 +2,7 @@
 layout: home
 title: Claim your free book
 permalink: /
-img: promo3.png
+img: promo3.jpg
 ---
 
 In Prohibition-era New Zealand, cabaret singer Ruby Black lives for thrills–but will she survive being mistaken for a dead girl? 
