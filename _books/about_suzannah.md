@@ -1,7 +1,7 @@
 ---
 title: About Suzannah
 background: swirl.png
-image: suzannah.jpg
+image: profile.jpg
 ---
 
 When Suzannah Rowntree isn’t travelling the world to help out friends in need, she lives in a big house in rural Australia with her awesome parents and siblings, writing historical fantasy fiction informed by a covenantal Christian perspective on history. If you like the fiction of CS Lewis, GK Chesterton, Stephen Lawhead, or ND Wilson, you'll probably enjoy her stories too.
