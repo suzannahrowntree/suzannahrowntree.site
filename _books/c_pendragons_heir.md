@@ -6,11 +6,9 @@ image: PHsmallcover.jpg
 
 ---
 
-**Available now in [eBook](https://www.amazon.com/gp/product/B00UKICH94/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00UKICH94&linkId=7ed5aa9fe9e3befcb973a4bf2ee6103d) and [paperback](https://www.amazon.com/gp/product/0994233906/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0994233906&linkId=3ed927c1d39389b2819360ceb95a70e5)!**
+**[$3.99 ebook](https://www.amazon.com/gp/product/B00UKICH94/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00UKICH94&linkId=7ed5aa9fe9e3befcb973a4bf2ee6103d) | [$17.99 paperback](https://www.amazon.com/gp/product/0994233906/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0994233906&linkId=3ed927c1d39389b2819360ceb95a70e5)**
 
-Blanche Pendragon enjoys her undemanding life as the ward of an eccentric nobleman in 1900 England. It's been years since she even wondered what happened to her long lost parents, but then a gift on the night of her eighteenth birthday reveals a heritage more dangerous and awe-inspiring than she ever dreamed of--or wanted. Soon Blanche is flung into a world of wayfaring immortals, daring knights, and deadly combats, with a murderous witch-queen on her trail and the future of a kingdom at stake. As the legendary King Arthur Pendragon and his warriors face enemies without and treachery within, Blanche discovers a secret that could destroy the whole realm of Logres. Even if the kingdom could be saved, is she the one to do it? Or is someone else the Pendragon's Heir?
-
-A spellbinding Arthurian fantasy novel for fans of Stephen Lawhead and CS Lewis.
+**An everlasting kingdom. A princess lost in time. A murderous witch-queen determined to destroy them both...** _Pendragon's Heir_ is a spellbinding Arthurian fantasy novel for fans of Stephen Lawhead and CS Lewis.
 
 **Praise for _Pendragon's Heir_**
 
