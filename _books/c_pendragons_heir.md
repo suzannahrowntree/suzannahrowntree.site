@@ -13,7 +13,7 @@ image: PHsmallcover.jpg
 _Pendragon's Heir_ is a spellbinding Arthurian fantasy novel for fans of Stephen Lawhead and CS Lewis.
 
 ---
-#### Praise for _Pendragon's Heir_
+### Praise for _Pendragon's Heir_
 ---
 
 "A sweeping, epic tribute to Arthurian legend, with adventure, romance and deep meaning." **~ Callooh Callay Books**
