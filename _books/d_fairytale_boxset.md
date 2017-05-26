@@ -19,6 +19,8 @@ In Prohibition-era New Zealand, cabaret singer Ruby Black lives for thrills--but
 
 **Get four stories for the price of two!** "Beauty and the Beast" and three other classic fairytales find a vivid new lease on life in this wildly diverse collection of novellas, available for the first time in a discounted boxset edition.
 
+[<i class="fa fa-amazon" aria-hidden="true"></i> Get it now on Amazon.](https://www.amazon.com/gp/product/B06Y1VNXP8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=suzannahsite-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06Y1VNXP8&linkId=84c315068759650819f8acaa000b8867)
+
 ---
 #### Praise for...
 
