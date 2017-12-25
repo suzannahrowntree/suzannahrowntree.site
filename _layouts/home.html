@@ -14,16 +14,17 @@
       }
 
      .container:first-child {
-        margin-top: 56px;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
       }
     </style>
   </head>
 
-  <body class="bg-inverse">
+  <body class="bg-dark">
 
     <div class="container">
 
-      <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -56,7 +57,7 @@
 
     {% for book in site.books %}
     <div class="container-fluid py-2" style="background: #FFFFFF url(/images/backgrounds/{{ book.background }})">
-      <div class="container bg-faded rounded py-1">
+      <div class="container bg-light rounded py-1">
         {% if book.image %}
           <figure class="figure float-left">
             <img class="d-flex mr-3 align-self-start" src="/images/books/{{ book.image }}" alt="{{ book.title }}">
