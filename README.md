@@ -1,3 +1,3 @@
 # suzannahrowntree.site
 
-Please visit: https://suzannahrowntree.site/
+https://suzannahrowntree.site/
