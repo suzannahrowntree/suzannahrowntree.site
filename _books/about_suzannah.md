@@ -1,5 +1,5 @@
 ---
-title: About Suzannahs
+title: About Suzannah
 background: swirl.png
 image: smallprofile.jpg
 ---
