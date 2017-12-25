@@ -9,4 +9,4 @@ In Prohibition-era New Zealand, cabaret singer Ruby Black lives for thrills–bu
 
 For a limited time only, receive a FREE copy of _Death Be Not Proud_ when you sign up to my author mailing list!
 
-<a href="http://eepurl.com/bh7sEb" class="btn btn-danger">Click here to sign up now</a>
+<a href="http://eepurl.com/bh7sEb" class="btn btn-danger">Sign up now</a>
