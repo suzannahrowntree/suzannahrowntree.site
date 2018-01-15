@@ -6,7 +6,7 @@ image: PHsmallcover.jpg
 
 ---
 
-**[Amazon](https://www.amazon.com/Pendragons-Heir-Suzannah-Rowntree-ebook/dp/B00UKICH94/) | [Kobo](https://www.kobo.com/au/en/ebook/pendragon-s-heir-1) | [Apple](https://itunes.apple.com/cy/book/pendragons-heir/id980120413?mt=11) | [Barnes & Noble](https://www.barnesandnoble.com/w/pendragons-heir-suzannah-rowntree/1121605353?ean=2940151837767) | [Smashwords](https://www.smashwords.com/books/view/530467)**
+**[Amazon](https://www.amazon.com/Pendragons-Heir-Suzannah-Rowntree-ebook/dp/B00UKICH94/) - [Kobo](https://www.kobo.com/au/en/ebook/pendragon-s-heir-1) - [Apple](https://itunes.apple.com/cy/book/pendragons-heir/id980120413?mt=11) - [Barnes & Noble](https://www.barnesandnoble.com/w/pendragons-heir-suzannah-rowntree/1121605353?ean=2940151837767) - [Smashwords](https://www.smashwords.com/books/view/530467)**
 
 **An everlasting kingdom. A princess lost in time. A murderous witch-queen determined to destroy them both...** 
 
