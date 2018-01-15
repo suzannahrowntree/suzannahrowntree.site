@@ -5,7 +5,7 @@ background: swirl.png
 
 ---
 
-**[Amazon](https://www.amazon.com/Pendragons-Heir-Suzannah-Rowntree-ebook/dp/B00UKICH94/) - [Kobo](https://www.kobo.com/au/en/ebook/pendragon-s-heir-1) - [Apple](https://itunes.apple.com/cy/book/pendragons-heir/id980120413?mt=11) - [Barnes & Noble](https://www.barnesandnoble.com/w/pendragons-heir-suzannah-rowntree/1121605353?ean=2940151837767) - [Smashwords](https://www.smashwords.com/books/view/530467)**
+**[Amazon](https://www.amazon.com/Beasts-Queens-Fairy-Retold-Books-ebook/dp/B06Y1VNXP8/) - [Kobo](https://www.kobo.com/au/en/ebook/beasts-and-queens-a-fairy-tale-retold-books-1-4) - [Apple](https://itunes.apple.com/cy/book/beasts-and-queens-a-fairy-tale-retold-books-1-4/id1292115047?mt=11) - [Barnes & Noble](https://www.barnesandnoble.com/w/beasts-and-queens-suzannah-rowntree/1127176101?ean=2940154573488) - [Smashwords](https://www.smashwords.com/books/view/751347)**
 
 **You've heard these stories before. But not like this...**
 
