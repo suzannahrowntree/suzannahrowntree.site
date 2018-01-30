@@ -6,8 +6,6 @@ image: PHsmallcover.jpg
 
 ---
 
-**[Buying options](https://books2read.com/u/mYge7p)**
-
 **An everlasting kingdom. A princess lost in time. A murderous witch-queen determined to destroy them both...** 
 
 Blanche Pendragon enjoys her undemanding life as the ward of an eccentric nobleman in 1900 England. It's been years since she wondered what happened to her long lost parents, but then a gift on the night of her eighteenth birthday reveals a heritage more dangerous and awe-inspiring than she ever dreamed of—or wanted. 
