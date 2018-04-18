@@ -2,7 +2,7 @@
 layout: home
 title: Claim your free book
 permalink: /
-img: ad3.jpg
+img: ad3.png
 
 ---
 
