@@ -14,4 +14,4 @@ Soon Blanche is flung into a world of wayfaring immortals, daring knights, and d
 
 Even if the kingdom could be saved, is she the one to do it? Or is someone else the Pendragon's Heir?
 
-**[Get it now](https://books2read.com/u/mYge7p)**
+**[Get it now](https://books2read.com/u/mBM0Ey)**
