@@ -17,3 +17,9 @@ exclude:
   - Gemfile.lock
   - CNAME
   - vendor
+
+whitelist:
+  - jekyll-redirect-from
+
+plugins:
+  - jekyll-redirect-from
